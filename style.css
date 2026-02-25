@@ -1,0 +1,21 @@
+/* Ustawiamy czcionkę i odstępy na stronie */
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+/* Wygląd pola tekstowego */
+input {
+    padding: 5px;
+}
+
+/* Wygląd przycisku */
+button {
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+
+/* Odstęp między zadaniami */
+li {
+    margin-top: 10px;
+}
